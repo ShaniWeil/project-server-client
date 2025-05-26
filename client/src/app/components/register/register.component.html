@@ -1,0 +1,59 @@
+<h1> טופס הרשמה </h1>
+
+<form [formGroup]="registerForm" (ngSubmit)="registerSubmit()" class="registration-form">
+
+  <input type="text" placeholder=" תעודת זהות " formControlName="id">
+  <label *ngIf="registerForm.get('id')?.errors">
+    <span *ngIf="registerForm.get('id')?.errors?.['required']">שדה חובה</span>
+    <span *ngIf="registerForm.get('id')?.errors?.['pattern'] && (registerForm.get('id')?.dirty || registerForm.get('id')?.touched)">
+      יש להכניס מספרים בלבד
+    </span>
+  </label>
+
+  <input type="text" placeholder=" שם מלא " formControlName="name">
+  <label *ngIf="registerForm.get('name')?.errors">
+    <span *ngIf="registerForm.get('name')?.errors?.['required']">שדה חובה</span>
+  </label>
+
+    <div class="input-with-icon">
+      <input
+        [type]="showPassword ? 'text' : 'password'"
+        placeholder="סיסמה"
+        formControlName="password"
+      />
+      <mat-icon class="icon" (click)="togglePassword()">
+        {{ showPassword ? 'visibility_off' : 'visibility' }}
+      </mat-icon>
+    </div>
+
+    
+  <label *ngIf="registerForm.get('password')?.errors">
+    <span *ngIf="registerForm.get('password')?.errors?.['required']">שדה חובה</span>
+    <span *ngIf="registerForm.get('password')?.errors?.['minlength'] && (registerForm.get('password')?.dirty || registerForm.get('password')?.touched)">
+      מינימום אורך 4 תווים
+    </span>
+  </label>
+
+  <input type="email" placeholder=" מייל " formControlName="email">
+  <label *ngIf="registerForm.get('email')?.errors">
+    <span *ngIf="registerForm.get('email')?.errors?.['email'] && (registerForm.get('email')?.dirty || registerForm.get('email')?.touched)">
+      מייל לא תקין
+    </span>
+  </label>
+
+  <input type="text" placeholder=" כתובת " formControlName="address">
+
+  <input type="text" placeholder=" טלפון " formControlName="phone">
+  <label *ngIf="registerForm.get('phone')?.errors">
+    <span *ngIf="registerForm.get('phone')?.errors?.['pattern'] && (registerForm.get('phone')?.dirty || registerForm.get('phone')?.touched)">
+      יש להכניס מספרים בלבד
+    </span>
+  </label>
+
+      <button [disabled]="!registerForm.valid" type="submit"> שליחה והצטרפות :) </button>
+      @if(userExists){
+      <p>ת. ז. כבר קיימת במערכת, עבור להתחברות.</p>
+      }
+      <button (click)="toLogin()"> מעבר להתחברות </button>
+
+</form>

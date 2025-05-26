@@ -1,0 +1,85 @@
+@use '../../../styles.scss' as *;
+
+div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    h1 {
+        background: linear-gradient(90deg, $color-pink-2 0%, $color-purple-1 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-shadow: 0 0 10px rgba(255, 255, 255, 0.1), 0 0 10px rgba(255, 204, 203, 0.1), 0 0 10px rgba(230, 179, 255, 0.1);
+        font-weight: bold;
+        transition: transform 0.3s ease;
+
+        &:hover {
+            background: linear-gradient(90deg, $color-purple-1 0%, $color-pink-2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.1), 0 0 10px rgba(255, 204, 203, 0.1), 0 0 10px rgba(230, 179, 255, 0.1);
+        }
+    }
+
+    p {
+        font-weight: 1000;
+        color: $color-pink-2;
+        font-size: larger;
+        margin: 1px;
+    }
+
+    img {
+        width: 40%;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        margin: 5px;
+
+        &:hover {
+            transform: scale(1.03);
+            box-shadow: 0 0 25px rgba(211, 133, 250, 0.6);
+        }
+    }
+
+    span {
+        margin-top: auto;
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+
+        button {
+            border-radius: 50%;
+            padding: 10px;
+            margin: 4px;
+            border: none;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background-color: rgba(241, 110, 255, 0.5);
+
+            &:hover {
+                transform: translateY(-3px);
+            }
+
+            &:disabled {
+                cursor: not-allowed;
+            }
+        }
+    }
+
+    .order {
+        display: flex;
+        flex-direction: row;
+
+        button,
+        input {
+            border: 1px solid $color-pink-2;
+            color: $color-pink-2;
+            margin: 2px;
+
+            &::placeholder {
+                color: $color-pink-2;
+            }
+        }
+
+    }
+
+}

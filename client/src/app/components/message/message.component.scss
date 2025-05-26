@@ -1,0 +1,35 @@
+@use '../../../styles.scss' as *;
+
+p {
+    color: $color-purple-1;
+    font-size: 20px;
+    padding: 2px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+
+h1 {
+    color: $color-purple-2;
+    font-size: 24px;
+    padding: 2px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+
+div {
+    display: flex;
+    justify-content: flex-start;
+    button{
+        margin: 5px;
+        padding: 5px;
+        color: $color-pink-3;
+        border: 1px, solid, $color-pink-3;
+        background-color: white;
+
+        &:hover{
+            color: $color-pink-1;
+            border: 1px, solid, $color-pink-1;
+            background-color: white;
+        }
+    }
+}

@@ -1,0 +1,80 @@
+<h1> המוצרים במערכת: </h1>
+<div class="container">
+    @for (i of products; track i.id) {
+        <div class="product">
+            <img src="{{i.routingToImage}}" alt="{{i.name}}">
+            <p> קוד : {{i.id}} </p>
+            <p> שם : {{i.name}} </p>
+            <p> תאור : {{i.description}} </p>
+            <p> קטגוריה : {{getCategoryName(i.categoryId)}} </p>
+            <p> מחיר : {{i.price | currency:'ILS':'symbol':'1.0-2'}} </p>
+            <p> כמות במלאי : {{i.quantityInStock | quantity}} </p>
+            <div>
+                <button (click)="postProduct(i.id)"> עדכן מוצר </button>
+                <button (click)="deleteProduct(i.id)"> מחק מוצר </button>
+            </div>
+        </div>
+    }
+</div>
+    <div class="button" *ngIf="putProductbtn"> <button (click)="putProduct()"> הוסף מוצר </button> </div>
+    @if(addProduct){
+        <form (ngSubmit)="addProductSubmit(addProduct.value)" #addProduct="ngForm">
+            <input type="text" placeholder=" שם " name="name" ngModel required #name="ngModel">
+            <label *ngIf="name.errors?.['required']">שדה חובה</label>
+
+            <input type="text" placeholder=" תאור " name="description" ngModel required minlength="10" #description="ngModel">
+            <label *ngIf="description.errors?.['required']">שדה חובה</label>
+            <label *ngIf="description.errors?.['minlength'] && (description.dirty || description.touched)">
+                תאור קצר מדי
+            </label>
+            
+            <input type="text" placeholder=" תמונה " name="routingToImage" ngModel required #image="ngModel">
+            <label *ngIf="image.errors?.['required']">שדה חובה</label>
+
+            <input type="text" placeholder=" מחיר " name="price" ngModel required #price="ngModel">
+            <label *ngIf="price.errors?.['required']">שדה חובה</label>
+
+            <input type="number" placeholder=" קוד קטגוריה " name="categoryId" ngModel required #categoryId="ngModel">
+            <label *ngIf="categoryId.errors?.['required']">שדה חובה</label>
+            <label *ngIf="!isCategoryValid(categoryId.value) && (categoryId.dirty || categoryId.touched)">
+                קוד קטגוריה לא תקין
+            </label>
+
+            <input type="number" placeholder=" כמות במלאי " name="quantityInStock" ngModel required #quantityInStock="ngModel">
+            <label *ngIf="quantityInStock.errors?.['required']">שדה חובה</label>
+
+            <button type="submit" [disabled]="!addProduct.valid"> הוסף </button>
+        </form>
+        <div [ngStyle]="{ 'padding': '10px' }"></div>
+    }
+
+    @if(updateProduct){
+        <form (ngSubmit)="postProductSubmit(id, postProduct.value)" #postProduct="ngForm">
+            <label class="title"> שם: </label>
+            <input type="text" name="name" ngModel [ngModel]="currentProduct.name" #name="ngModel">
+
+            <label class="title"> תאור: </label>
+            <input type="text" name="description" ngModel [ngModel]="currentProduct.description" minlength="10" #description="ngModel">
+            <label *ngIf="description.errors?.['minlength'] && (description.dirty || description.touched)">
+                תאור קצר מדי
+            </label>
+
+            <input type="text" placeholder=" תמונה " [ngModel]="getImageName(currentProduct.routingToImage)" name="routingToImage" ngModel #image="ngModel">
+
+            <label class="title"> מחיר: </label>
+            <input type="text" name="price" ngModel [ngModel]="currentProduct.price" #price="ngModel">
+
+            <label class="title"> קוד קטגוריה: </label>
+            <input type="number" name="categoryId" ngModel [ngModel]="currentProduct.categoryId" #categoryId="ngModel">
+            <label *ngIf="!isCategoryValid(categoryId.value) && (categoryId.dirty || categoryId.touched)">
+                קוד קטגוריה לא תקין
+            </label>
+
+            <label class="title"> כמות במלאי: </label>
+            <input type="number" name="quantityInStock" ngModel [ngModel]="currentProduct.quantityInStock" #quantityInStock="ngModel">
+            <button type="submit" [disabled]="!postProduct.valid"> עדכן </button>
+        </form>
+        <div [ngStyle]="{ 'padding': '10px' }"></div>
+    }
+    
+

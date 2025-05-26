@@ -1,0 +1,32 @@
+<h1> הקטגוריות במערכת: </h1>
+<div class="container">
+    @for (i of categories; track i.id) {
+        <div class="category">
+            <p> קוד : {{i.id}} </p>
+            <p> שם : {{i.name}} </p>
+            <button (click)="postCategory(i.id)"> עדכן קטגוריה </button>
+        </div>
+    }
+</div>
+    <div class="button" *ngIf="putCategorybtn"> <button (click)="putCategory()"> הוסף קטגוריה </button> </div>
+    @if(addCategory){
+        <form (ngSubmit)="addCategorySubmit(addCategory.value)" #addCategory="ngForm">
+            <input type="text" placeholder=" שם " name="name" ngModel required #name="ngModel">
+            <label *ngIf="name.errors?.['required']">שדה חובה</label>
+            <button type="submit" [disabled]="!addCategory.valid"> הוסף </button>
+        </form>
+        <div style="padding: 10px;"></div>
+    }
+
+    @if(updateCategory){
+        <form (ngSubmit)="postCategorySubmit(id, postCategory.value)" #postCategory="ngForm">
+            <input type="text" placeholder=" שם " name="name" ngModel required #name="ngModel">
+            <label *ngIf="name.errors?.['required']">שדה חובה</label>
+            <button type="submit" [disabled]="!postCategory.valid"> עדכן </button>
+        </form>
+        <div [ngStyle]="{ 'padding': '10px' }"></div>
+    }
+
+
+    
+

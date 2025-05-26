@@ -1,0 +1,85 @@
+@use '../../../styles.scss' as *;
+
+.not-logged-in-section,
+.welcome-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    border-radius: 10px;
+
+    .icon {
+
+        width: 50px;
+        height: 50px;
+        font-size: 49px;
+        transform: scale(1.2);
+        color: #fff;
+        background-color: $color-purple-2;
+        border-radius: 50%;
+    }
+
+    .link {
+        margin-top: 20px;
+        background-color: #fff;
+        border: none;
+        border-radius: 50px;
+        color: $color-purple-2;
+        border: 0.6px solid $color-purple-2;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+
+        &:hover {
+            background-color: $color-purple-2;
+            color: #fff;
+        }
+    }
+
+    button {
+        margin: 5px;
+        background-color: $color-purple-2;
+        border: none;
+        text-align: center;
+        border-radius: 50px;
+        color: #fff;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+
+        &:hover {
+            background-color: #fff;
+            color: $color-purple-2;
+            border: 0.6px solid $color-purple-2;
+        }
+    }
+
+    p {
+        color: $color-purple-2;
+        font-size: 24px;
+        font-weight: bold;
+    }
+}
+
+.input-with-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 109%;
+    margin: 0px;
+
+    .icon {
+        position: absolute;
+        right: 12px;
+        cursor: pointer;
+        color: $color-pink-1;
+        font-size: 20px;
+        transition: color 0.2s ease;
+        position: absolute;
+        right: 400px;
+    }
+
+}

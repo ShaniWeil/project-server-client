@@ -1,0 +1,87 @@
+@use '../../../styles.scss' as *;
+
+.home-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px;
+  text-align: center;
+
+  h1 {
+    font-size: 36px; 
+    font-weight: bold;
+    color: $color-pink-3; 
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: scale(1.05); 
+    }
+  }
+
+  h1.metukush {
+    font-size: 100px; 
+    font-weight: bold;
+    background: linear-gradient(90deg, $color-pink-2 0%, $color-purple-1 100%);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.2), 0 0 15px rgba(255, 204, 203, 0.2), 0 0 15px rgba(230, 179, 255, 0.2);
+    transition: transform 0.3s ease;
+    margin: 0px;
+  }
+
+  h1.metukush:hover {
+    transform: scale(1.30); 
+    margin: 0px;
+  }
+
+  p[routerLink] {
+    margin: 10px 0;
+    padding: 12px 25px;
+    border-radius: 50px; 
+    background: linear-gradient(90deg, $color-pink-3 0%, $color-pink-1 100%);
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background: linear-gradient(90deg, $color-pink-1 0%, $color-pink-3 100%);
+      transform: translateY(-3px); 
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    &[routerLinkActive="active"] {
+      background-color: $color-pink-3; 
+      color: #ffffff;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+  }
+
+  .thanks, span p:first-child {
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 16px;
+    color: $color-pink-3;
+    background: none;
+    cursor: default; 
+    font-weight: bold;
+  }
+
+  span p:last-child {
+    cursor: pointer;
+    background-color: $color-pink-3;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 10px 20px;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+      transform: scale(1.1);
+    }
+  }
+}

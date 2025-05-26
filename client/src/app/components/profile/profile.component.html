@@ -1,0 +1,71 @@
+<div class="container">
+  @if(!user){
+    <div class="welcome-section">
+      <p class="user-text"> ברוך הבא! {{userConnected.name}} </p>
+      <div class="button-group">
+        <button (click)="breakAway()"> להתנתק </button>
+        <button (click)="updateUser()"> עדכון פרופיל </button>
+        <button (click)="toProducts()"> בוא והתחל את חווית הקניה אצלנו--- </button>
+      </div>
+    </div>
+      @if(userProfile){
+          <form [formGroup]="updateForm" (ngSubmit)="updateSubmit()" class="registration-form">
+            
+              <label class="title"> שם: </label>
+              <input type="text" placeholder={{userConnected.name}} formControlName="name">
+              <label *ngIf="updateForm.get('name')?.errors" class="label">
+              </label>
+            
+              <div class="input-with-icon">
+                <input
+                  [type]="showPassword ? 'text' : 'password'"
+                  placeholder="סיסמה"
+                  formControlName="password"
+                />
+                <mat-icon class="icon" (click)="togglePassword()">
+                  {{ showPassword ? 'visibility_off' : 'visibility' }}
+                </mat-icon>
+              </div>
+              <label *ngIf="updateForm.get('password')?.errors" class="label">
+                <span *ngIf="updateForm.get('password')?.errors?.['minlength'] && (updateForm.get('password')?.dirty || updateForm.get('password')?.touched)">
+                  מינימום אורך 4 תווים
+                </span>
+              </label>
+            
+              <label class="title"> מייל: </label>
+              <input type="email" placeholder={{userConnected.email}} formControlName="email">
+              <label *ngIf="updateForm.get('email')?.errors" class="label">
+                <span *ngIf="updateForm.get('email')?.errors?.['email'] && (updateForm.get('email')?.dirty || updateForm.get('email')?.touched)">
+                  מייל לא תקין
+                </span>
+              </label>
+            
+              <label class="title"> כתובת: </label>
+              <input type="text" placeholder={{userConnected.address}} formControlName="address"> 
+
+              <label class="title"> טלפון: </label>
+              <input type="text" placeholder={{userConnected.phone}} formControlName="phone">
+              <label *ngIf="updateForm.get('phone')?.errors" class="label">
+                <span *ngIf="updateForm.get('phone')?.errors?.['pattern'] && (updateForm.get('phone')?.dirty || updateForm.get('phone')?.touched)">
+                  יש להכניס מספרים בלבד
+                </span>
+              </label>
+            
+              <button [disabled]="!updateForm.valid" type="submit"> שמור </button>
+            
+            </form>
+      }
+      
+  }
+  @else {
+    <div class="not-logged-in-section">
+      <mat-icon fontIcon="person" class="icon"></mat-icon>
+      <p> משתמש לא מחובר, עבור עכשיו להרשמה או להתחברות! מחכים לך--- </p>
+      <div class="button-group">
+        <button (click)="toProducts()"> לצפייה במתוקים שלנו </button>
+        <button (click)="toLogin()"  class="link"> התחברות </button>
+        <button (click)="toRegister()"  class="link"> הרשמה </button>
+      </div>
+    </div>
+  }
+</div>

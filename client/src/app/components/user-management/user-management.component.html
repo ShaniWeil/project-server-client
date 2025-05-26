@@ -1,0 +1,13 @@
+<h1> המשתמשים במערכת: </h1>
+<div class="container">
+    @for (i of users; track i.id) {
+        <div class="user">
+            <p> ת. ז. : {{i.id}} </p>
+            <p> שם : {{i.name}} </p>
+            <p> סיסמה : {{i.password}} </p>
+            <p> מייל : {{i.email | lowercase }} </p>
+            <p> טלפון : {{i.phone | phone}} </p>
+            <button (click)="deleteUser(i.id)"> הסר משתמש </button>
+        </div>
+    }
+</div>

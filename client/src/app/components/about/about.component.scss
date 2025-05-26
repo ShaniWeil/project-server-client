@@ -1,0 +1,27 @@
+@use '../../../styles.scss' as *;
+
+p {
+    font-size: 20px;
+    padding-right: 15px;
+    font-weight: bold;
+    color: $color-pink-2;
+    transition: transform 0.3s ease;
+    margin: 2px;
+
+    &:hover {
+        transform: translateY(-5px);
+        color: $color-pink-1;
+    }
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: $color-pink-3;
+    text-align: center;
+    padding: 5px;
+}
+
+.h1{
+    color: $color-pink-2;
+}

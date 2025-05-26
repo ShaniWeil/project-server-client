@@ -1,0 +1,27 @@
+<div *ngIf="product">
+    <h1>{{product.name}}</h1>
+    <p>{{product.description}} </p>
+    <img [src]="product.routingToImage" [alt]="product.name" />
+
+    <p> קוד מוצר : {{product.id}} </p>
+    <p> קטגוריה : {{getCategoryName(product.categoryId)}} </p>
+    <p> מחיר : {{product.price | currency:'ILS':'symbol':'1.0-0'}} </p>
+    <p> כמות מקסימלית להזמנה : {{product.quantityInStock}} </p>
+
+    <span>
+        <button matTooltip="לחזרה לדף מוצרים" (click)="toProducts()"> <mat-icon fontIcon="subject"></mat-icon> </button>
+
+        <button matTooltip="משתמש לא מחובר" *ngIf="service.currentUser == null" [disabled]="true">
+            <mat-icon fontIcon="shopping_cart"></mat-icon>
+        </button>
+        <button (click)="addToCart()" matTooltip="הוספה לעגלה" *ngIf="service.currentUser != null">
+            <mat-icon fontIcon="shopping_cart"></mat-icon>
+        </button>
+    </span>
+
+    <div class="order" *ngIf="order">
+        <input type="number" #qty placeholder="בחר כמות">
+        <button (click)="ok(product.quantityInStock, qty.value, product)"> אישור </button>
+    </div>
+
+</div>

@@ -1,0 +1,20 @@
+
+<div class="product">
+    <img (click)="showDetials(product.id)" src="{{product.routingToImage}}" alt="{{product.name}}">
+    <p> {{product.name}} </p>
+    <p> מחיר : {{product.price | currency:'ILS':'symbol':'1.0-0'}} </p>
+    <span>
+        <button matTooltip="פרטים על המוצר" (click)="showDetials(product.id)"> <mat-icon fontIcon="subject"></mat-icon> </button>
+        <button matTooltip="משתמש לא מחובר" *ngIf="service.currentUser == null" [disabled]="true">
+            <mat-icon fontIcon="shopping_cart"></mat-icon>
+        </button>
+        <button (click)="addToCart()" matTooltip="הוספה לעגלה" *ngIf="service.currentUser != null">
+            <mat-icon fontIcon="shopping_cart"></mat-icon>
+        </button>
+    </span>
+    <div class="order" *ngIf="order">
+        <input [formControl]="amountFromControl" type="number" #qty placeholder="בחר כמות">
+        <button (click)="ok(product.quantityInStock, qty.value, product)"> אישור </button>
+    </div>
+    
+</div> 

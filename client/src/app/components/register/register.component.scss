@@ -1,0 +1,36 @@
+@use '../../../styles.scss' as *;
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+    background: linear-gradient(90deg, $color-pink-2 0%, $color-purple-1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.2), 0 0 15px rgba(255, 204, 203, 0.2), 0 0 15px rgba(230, 179, 255, 0.2);
+    transition: transform 0.3s ease;
+  
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+
+  .input-with-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 109%;
+
+    .icon {
+      position: absolute;
+      right: 12px;
+      cursor: pointer;
+      color: $color-pink-1;
+      font-size: 20px;
+      right: 400px;
+    }
+
+  } 
+
+ 

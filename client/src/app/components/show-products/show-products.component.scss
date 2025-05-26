@@ -1,0 +1,82 @@
+@use '../../../styles.scss' as *;
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: $color-purple-2;
+  margin: 20px 0;
+  text-shadow: 1px 1px 2px $color-pink-2;
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: $color-purple-2;
+  margin: 20px 0;
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  text-align: center;
+  align-items: stretch;
+}
+
+.choose {
+  display: flex;
+  margin-right: 20px;
+
+  mat-form-field {
+    margin: 5px;
+  }
+}
+
+mat-form-field {
+  mat-label {
+    color: $color-purple-2;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+  }
+
+  input,
+  mat-select {
+    color: #000;
+    font-family: 'Arial', sans-serif;
+    text-align: right;
+  }
+
+}
+
+.div_button {
+  margin-top: 20px;
+  text-align: center;
+  height: 100px;
+}
+
+.button {
+  display: block;
+  width: 25%;
+  padding: 12px 15px;
+  background: $color-pink-2;
+  border: none;
+  border-radius: 50px;
+  color: $color-pink-1;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 0 auto;
+
+  &:hover {
+    transform: translateY(-3px);
+    background: $color-pink-1;
+    color: $color-pink-2;
+  }
+}
+

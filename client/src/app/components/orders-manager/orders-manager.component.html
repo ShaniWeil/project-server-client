@@ -1,0 +1,12 @@
+<h1> כל ההזמנות: </h1>
+<div class="container">
+    @for (i of orders; track i.id) {
+        <div class="order">
+            <p> קוד הזמנה : {{i.id}} </p>
+            <p> משתמש : {{getUserName(i.userId)}} </p>
+            <p> תאריך : {{i.date | date:'dd-MM-yyyy'}} </p>
+            <p> שעה : {{i.date | date:'HH:mm'}} </p>
+            <p> סכום : {{i.sum | currency:'ILS':'symbol':'1.0-0' }} </p>
+        </div>
+    }
+</div>

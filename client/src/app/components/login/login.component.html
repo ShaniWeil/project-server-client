@@ -1,0 +1,26 @@
+<h1> טופס התחברות </h1>
+
+<form (ngSubmit)="loginSubmit(login.value)" #login="ngForm">
+
+    <input type="text" placeholder=" שם " name="name" ngModel required #name="ngModel">
+    <label *ngIf="name.errors?.['required']">שדה חובה</label>
+    
+    <div class="input-with-icon">
+       <input [type]="showPassword ? 'text' : 'password'" placeholder=" סיסמה " name="password" ngModel required #password="ngModel"
+     />
+     
+        <mat-icon class="icon" (click)="togglePassword()">
+            {{ showPassword ? 'visibility_off' : 'visibility' }}
+          </mat-icon>
+       
+    </div>
+    <label *ngIf="password.errors?.['required']">שדה חובה</label>
+    
+
+    <button type="submit" [disabled]="!login.valid"> שליחה </button>
+    @if(correctUser){
+    <p>שם או סיסמה לא נכונים, נסה שוב או עבור ל- הרשמה.</p>
+    }
+    <button (click)="toRegister()"> מעבר להרשמה </button>
+</form>
+

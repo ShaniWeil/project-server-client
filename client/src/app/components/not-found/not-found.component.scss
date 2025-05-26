@@ -1,0 +1,35 @@
+@use '../../../styles.scss' as *;
+
+.error-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  text-align: center;
+
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: $color-pink-3;
+    margin: 10px 0;
+  }
+
+  h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: $color-purple-1;
+    margin: 25px 0;
+  }
+
+  h3 {
+    font-size: 100px;
+    font-weight: bold;
+    background: linear-gradient(90deg, $color-pink-2 0%, $color-purple-1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.2), 0 0 15px rgba(255, 204, 203, 0.2), 0 0 15px rgba(230, 179, 255, 0.2);
+    margin: 20px 0;
+    transition: transform 0.3s ease;
+  }
+}

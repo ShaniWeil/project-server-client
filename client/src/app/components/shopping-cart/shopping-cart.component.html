@@ -1,0 +1,46 @@
+@if (service.currentUser == null) {
+  <h1>משתמש לא מחובר, עבור להתחברות או להרשמה ו- התחל להזמין...</h1>
+  <h1> מחכים לראות את ההזמנות שלך כאן... </h1>
+  <h1 class="h1" (click)="toLogin()"> לחץ כאן! להתחברות. </h1>
+  <h1 class="h1" (click)="toRegister()"> לחץ כאן! להרשמה. </h1>
+}
+
+@else {
+
+  <p> ההזמנות שלך: </p>
+  @if(orders.length == 0){
+    <h1> ההזמנות שלך יהיו כאן, כרגע - אין לך הזמנות, כדאי לך להתחיל להזמין! </h1>
+    <h1 class="h1" (click)="toShow()"> לחץ כאן! למוצרים. </h1>
+  }
+    <div class="container">
+      @for (i of orders; track i.id) {
+        <div class="order">
+            <p> קוד הזמנה : {{i.id}} </p>
+            <p> תאריך : {{i.date | date:'dd-MM-yyyy'}} </p>
+            <p> שעה : {{i.date | date:'HH:mm'}} </p>
+            <p> סכום : {{i.sum | currency:'ILS':'symbol':'1.0-0' }} </p>
+        </div>       
+      }
+    </div>
+
+  <p *ngIf="cart.length > 0">הזמנה נוכחית:</p>
+  <div class="container" *ngIf="cart.length > 0">
+    <div class="order" *ngFor="let item of cart">
+      <h1>מוצר: {{item.product.name}}</h1>
+      <h1>כמות: {{item.quantity}}</h1>
+      <h1>מחיר ליחידה: {{item.product.price}} ₪</h1>
+      <h1>סה"כ: {{item.quantity * item.product.price}} ₪</h1>
+      <div>
+        <button class="btn" (click)="increase(item)">+</button>
+        <button class="btn" (click)="decrease(item)">-</button>
+        <button class="btn" (click)="remove(item)">🗑️</button>
+      </div>
+  
+    </div>
+    
+  </div>
+  <p *ngIf="cart.length > 0">סה"כ להזמנה: {{totalSum}} ₪</p>
+  <div class="div_button"> <button class="button" *ngIf="service.canFinish" (click)="finishOrder()"> סיים הזמנה </button> </div>
+
+
+}

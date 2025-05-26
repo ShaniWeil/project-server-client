@@ -1,0 +1,32 @@
+<h1> המוצרים שלנו </h1>
+
+<div class="choose">
+    <mat-form-field appearance="fill">
+        <mat-label><mat-icon fontIcon="check"></mat-icon> בחר קטגוריה</mat-label>
+        <mat-select [(ngModel)]="selectedValue" (selectionChange)="onCategoryChange()" name="category">
+            <mat-option [value]="null"> כל המוצרים </mat-option>
+            <mat-option *ngFor="let i of categories" [value]="i.id">
+                {{ i.name }}
+            </mat-option>
+        </mat-select>
+    </mat-form-field>
+
+    <mat-form-field>
+        <mat-label>
+            <mat-icon fontIcon="search"></mat-icon> חפש מוצר
+        </mat-label>
+        <input matInput [(ngModel)]="searchTerm" (ngModelChange)="onSearchChange()" name="search">
+    </mat-form-field>
+
+</div>
+
+<div class="products">
+    @for (i of productsSelected; track i.id) {
+        <app-show-product [product]="i"></app-show-product>
+    }
+</div>
+
+
+<h2 *ngIf="noProducts"> מצטערים, אין מוצרים בחיפוש המבוקש. </h2>
+
+<div class="div_button"> <button class="button" *ngIf="service.canFinish" (click)="finishOrder()"> סיים הזמנה </button> </div>
