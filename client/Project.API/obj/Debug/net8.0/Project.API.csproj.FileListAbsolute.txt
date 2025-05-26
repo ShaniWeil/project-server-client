@@ -1,0 +1,337 @@
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.exe
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.deps.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.runtimeconfig.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.pdb
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.Project.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.API.props
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.API.props
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.API.props
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\scopedcss\bundle\Project.API.styles.css
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project..EE0E83FA.Up2Date
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\refint\Project.API.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.pdb
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.genruntimeconfig.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\obj\Debug\net8.0\ref\Project.API.dll
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.AssemblyReference.cache
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfoInputs.cache
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfo.cs
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.CoreCompileInputs.cache
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cache
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cs
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\appsettings.Development.json
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\appsettings.json
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.exe
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.deps.json
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.runtimeconfig.json
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.pdb
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Core.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Data.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Service.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Core.pdb
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Data.pdb
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Service.pdb
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets.build.json
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets.development.json
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.Project.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.API.props
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.API.props
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.API.props
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets.pack.json
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\scopedcss\bundle\Project.API.styles.css
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project..EE0E83FA.Up2Date
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.dll
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\refint\Project.API.dll
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.pdb
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.genruntimeconfig.cache
+F:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\ref\Project.API.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.API.exe
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.API.deps.json
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.API.runtimeconfig.json
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.API.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.API.pdb
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.Data.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.Service.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.Data.pdb
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\Project.Service.pdb
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.Project.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.API.props
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.API.props
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.API.props
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\scopedcss\bundle\Project.API.styles.css
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project..EE0E83FA.Up2Date
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\refint\Project.API.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.pdb
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\Project.API.genruntimeconfig.cache
+C:\Users\user\Desktop\לכונן\Project\Project.API\obj\Debug\net8.0\ref\Project.API.dll
+C:\Users\user\Desktop\לכונן\Project\Project.API\bin\Debug\net8.0\AutoMapper.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\appsettings.Development.json
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\appsettings.json
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.exe
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.deps.json
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.runtimeconfig.json
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.API.pdb
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\AutoMapper.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Core.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Data.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Service.dll
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Core.pdb
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Data.pdb
+E:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\Project.Service.pdb
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.AssemblyReference.cache
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfoInputs.cache
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfo.cs
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.CoreCompileInputs.cache
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cs
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cache
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.Project.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.API.props
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.API.props
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.API.props
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\scopedcss\bundle\Project.API.styles.css
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project..EE0E83FA.Up2Date
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.dll
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\refint\Project.API.dll
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.pdb
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\Project.API.genruntimeconfig.cache
+E:\תקיה חדשה\Project\Project.API\obj\Debug\net8.0\ref\Project.API.dll
+F:\תקיה חדשה\Project\Project.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Data.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Service.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Data.pdb
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Service.pdb
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.exe
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.deps.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.runtimeconfig.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.API.pdb
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Data.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Service.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Data.pdb
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\bin\Debug\net8.0\Project.Service.pdb
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.AssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.Project.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.API.props
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.API.props
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.API.props
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\scopedcss\bundle\Project.API.styles.css
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project..EE0E83FA.Up2Date
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\refint\Project.API.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.pdb
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\Project.API.genruntimeconfig.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.API\obj\Debug\net8.0\ref\Project.API.dll

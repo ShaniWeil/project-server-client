@@ -1,0 +1,60 @@
+F:\תקיה חדשה\Project\Project.Core\bin\Debug\net8.0\Project.Core.deps.json
+F:\תקיה חדשה\Project\Project.Core\bin\Debug\net8.0\Project.Core.dll
+F:\תקיה חדשה\Project\Project.Core\bin\Debug\net8.0\Project.Core.pdb
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfoInputs.cache
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfo.cs
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.CoreCompileInputs.cache
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.dll
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\refint\Project.Core.dll
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.pdb
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\ref\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Project\Project.Core\bin\Debug\net8.0\Project.Core.deps.json
+C:\Users\user\Desktop\לכונן\Project\Project.Core\bin\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Project\Project.Core\bin\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\refint\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\ref\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.AssemblyReference.cache
+E:\תקיה חדשה\Project\Project.Core\bin\Debug\net8.0\Project.Core.deps.json
+E:\תקיה חדשה\Project\Project.Core\bin\Debug\net8.0\Project.Core.dll
+E:\תקיה חדשה\Project\Project.Core\bin\Debug\net8.0\Project.Core.pdb
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.AssemblyReference.cache
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfoInputs.cache
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfo.cs
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.CoreCompileInputs.cache
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.dll
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\refint\Project.Core.dll
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.pdb
+E:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\ref\Project.Core.dll
+F:\תקיה חדשה\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\bin\Debug\net8.0\Project.Core.deps.json
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\bin\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\bin\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\refint\Project.Core.dll
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\WEB api\פרויקט\Project\Project.Core\obj\Debug\net8.0\ref\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\bin\Debug\net8.0\Project.Core.deps.json
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\bin\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\bin\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\refint\Project.Core.dll
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\Project.Core.pdb
+C:\Users\user\Desktop\לכונן\Angular\פרויקט\Project\Project.Core\obj\Debug\net8.0\ref\Project.Core.dll

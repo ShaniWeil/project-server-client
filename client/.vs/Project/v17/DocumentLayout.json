@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|c:\\users\\user\\desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\project\\project.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|solutionrelative:project.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|solutionrelative:project.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A007455E-8340-4F7A-9454-7208F41839D3}|Project.Core\\Project.Core.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A007455E-8340-4F7A-9454-7208F41839D3}|Project.Core\\Project.Core.csproj|solutionrelative:project.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A007455E-8340-4F7A-9454-7208F41839D3}|Project.Core\\Project.Core.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A007455E-8340-4F7A-9454-7208F41839D3}|Project.Core\\Project.Core.csproj|solutionrelative:project.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.api\\controllers\\productcotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|solutionrelative:project.api\\controllers\\productcotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|solutionrelative:project.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|solutionrelative:project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|solutionrelative:project.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\project.api\\middlewares\\addproductmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5A4AEE-D70D-424B-99E1-B1A58BD9CAEC}|Project.API\\Project.API.csproj|solutionrelative:project.api\\middlewares\\addproductmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.Core\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Project.Core\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.Core\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "Project.Core\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:07:06.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Project.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Project.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:19:38.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Project.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Project.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:41:36.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Middlewares\\AddProductMiddleware.cs",
+              "RelativeDocumentMoniker": "Project.API\\Middlewares\\AddProductMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Middlewares\\AddProductMiddleware.cs",
+              "RelativeToolTip": "Project.API\\Middlewares\\AddProductMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:19:35.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Project.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Project.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:42:01.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Project.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Project.API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwBwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:41:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCotroller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\ProductCotroller.cs",
+              "RelativeDocumentMoniker": "Project.API\\Controllers\\ProductCotroller.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\ProductCotroller.cs",
+              "RelativeToolTip": "Project.API\\Controllers\\ProductCotroller.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:41:46.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Project.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Project.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:41:05.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Program.cs",
+              "RelativeDocumentMoniker": "Project.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05DC\u05DB\u05D5\u05E0\u05DF\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Project\\Project.API\\Program.cs",
+              "RelativeToolTip": "Project.API\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:53:22.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
