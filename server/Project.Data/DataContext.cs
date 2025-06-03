@@ -29,13 +29,11 @@ namespace Project.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // optionsBuilder.UseSqlServer(configuration["DbConectionString"]);
 
             {
                 if (!optionsBuilder.IsConfigured)
                 {
-                    // optionsBuilder.UseSqlServer(configuration["DbConectionString"]);
-                    optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;database=newDataBase");
+                    optionsBuilder.UseSqlServer(configuration["DbConectionString"]);
                 }
             }
 

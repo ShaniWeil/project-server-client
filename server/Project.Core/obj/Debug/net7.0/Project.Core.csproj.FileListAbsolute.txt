@@ -34,3 +34,15 @@ C:\Users\User\Desktop\פרויקט אנגולר\Project\Project.Core\obj\Debug\n
 C:\Users\User\Desktop\פרויקט אנגולר\Project\Project.Core\obj\Debug\net7.0\refint\Project.Core.dll
 C:\Users\User\Desktop\פרויקט אנגולר\Project\Project.Core\obj\Debug\net7.0\Project.Core.pdb
 C:\Users\User\Desktop\פרויקט אנגולר\Project\Project.Core\obj\Debug\net7.0\ref\Project.Core.dll
+D:\project\server\Project.Core\bin\Debug\net7.0\Project.Core.deps.json
+D:\project\server\Project.Core\bin\Debug\net7.0\Project.Core.dll
+D:\project\server\Project.Core\bin\Debug\net7.0\Project.Core.pdb
+D:\project\server\Project.Core\obj\Debug\net7.0\Project.Core.csproj.AssemblyReference.cache
+D:\project\server\Project.Core\obj\Debug\net7.0\Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\server\Project.Core\obj\Debug\net7.0\Project.Core.AssemblyInfoInputs.cache
+D:\project\server\Project.Core\obj\Debug\net7.0\Project.Core.AssemblyInfo.cs
+D:\project\server\Project.Core\obj\Debug\net7.0\Project.Core.csproj.CoreCompileInputs.cache
+D:\project\server\Project.Core\obj\Debug\net7.0\Project.Core.dll
+D:\project\server\Project.Core\obj\Debug\net7.0\refint\Project.Core.dll
+D:\project\server\Project.Core\obj\Debug\net7.0\Project.Core.pdb
+D:\project\server\Project.Core\obj\Debug\net7.0\ref\Project.Core.dll

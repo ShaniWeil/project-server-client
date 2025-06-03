@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.API\\Project.API.csproj": {}
+    "D:\\project\\server\\Project.API\\Project.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.API\\Project.API.csproj": {
+    "D:\\project\\server\\Project.API\\Project.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.API\\Project.API.csproj",
+        "projectUniqueName": "D:\\project\\server\\Project.API\\Project.API.csproj",
         "projectName": "Project.API",
-        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.API\\Project.API.csproj",
+        "projectPath": "D:\\project\\server\\Project.API\\Project.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.API\\obj\\",
+        "outputPath": "D:\\project\\server\\Project.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj"
+              "D:\\project\\server\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "D:\\project\\server\\Project.Core\\Project.Core.csproj"
               },
-              "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Data\\Project.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Data\\Project.Data.csproj"
+              "D:\\project\\server\\Project.Data\\Project.Data.csproj": {
+                "projectPath": "D:\\project\\server\\Project.Data\\Project.Data.csproj"
               },
-              "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj"
+              "D:\\project\\server\\Project.Service\\Project.Service.csproj": {
+                "projectPath": "D:\\project\\server\\Project.Service\\Project.Service.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {
+    "D:\\project\\server\\Project.Core\\Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj",
+        "projectUniqueName": "D:\\project\\server\\Project.Core\\Project.Core.csproj",
         "projectName": "Project.Core",
-        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj",
+        "projectPath": "D:\\project\\server\\Project.Core\\Project.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\obj\\",
+        "outputPath": "D:\\project\\server\\Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Data\\Project.Data.csproj": {
+    "D:\\project\\server\\Project.Data\\Project.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Data\\Project.Data.csproj",
+        "projectUniqueName": "D:\\project\\server\\Project.Data\\Project.Data.csproj",
         "projectName": "Project.Data",
-        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Data\\Project.Data.csproj",
+        "projectPath": "D:\\project\\server\\Project.Data\\Project.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Data\\obj\\",
+        "outputPath": "D:\\project\\server\\Project.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -178,8 +178,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj"
+              "D:\\project\\server\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "D:\\project\\server\\Project.Core\\Project.Core.csproj"
               }
             }
           }
@@ -225,14 +225,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj": {
+    "D:\\project\\server\\Project.Service\\Project.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj",
+        "projectUniqueName": "D:\\project\\server\\Project.Service\\Project.Service.csproj",
         "projectName": "Project.Service",
-        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj",
+        "projectPath": "D:\\project\\server\\Project.Service\\Project.Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\obj\\",
+        "outputPath": "D:\\project\\server\\Project.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -249,8 +249,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj"
+              "D:\\project\\server\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "D:\\project\\server\\Project.Core\\Project.Core.csproj"
               }
             }
           }

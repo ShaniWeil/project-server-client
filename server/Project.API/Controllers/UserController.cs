@@ -44,7 +44,6 @@ namespace Project.API.Controllers
         public ActionResult GetById(string id)
         {
             var x = mapper.Map<UserDTO>(userService.GetById(id));
-            // AutoMapper.AutoMapperMappingException: 'Error mapping types.'
 
             if (x == null)
                 return NotFound();

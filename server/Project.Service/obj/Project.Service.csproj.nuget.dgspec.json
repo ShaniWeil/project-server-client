@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj": {}
+    "D:\\project\\server\\Project.Service\\Project.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {
+    "D:\\project\\server\\Project.Core\\Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj",
+        "projectUniqueName": "D:\\project\\server\\Project.Core\\Project.Core.csproj",
         "projectName": "Project.Core",
-        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj",
+        "projectPath": "D:\\project\\server\\Project.Core\\Project.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\obj\\",
+        "outputPath": "D:\\project\\server\\Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj": {
+    "D:\\project\\server\\Project.Service\\Project.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj",
+        "projectUniqueName": "D:\\project\\server\\Project.Service\\Project.Service.csproj",
         "projectName": "Project.Service",
-        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\Project.Service.csproj",
+        "projectPath": "D:\\project\\server\\Project.Service\\Project.Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Service\\obj\\",
+        "outputPath": "D:\\project\\server\\Project.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj"
+              "D:\\project\\server\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "D:\\project\\server\\Project.Core\\Project.Core.csproj"
               }
             }
           }

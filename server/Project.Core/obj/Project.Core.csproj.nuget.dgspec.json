@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {}
+    "D:\\project\\server\\Project.Core\\Project.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj": {
+    "D:\\project\\server\\Project.Core\\Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj",
+        "projectUniqueName": "D:\\project\\server\\Project.Core\\Project.Core.csproj",
         "projectName": "Project.Core",
-        "projectPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\Project.Core.csproj",
+        "projectPath": "D:\\project\\server\\Project.Core\\Project.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\פרויקט אנגולר\\Project\\Project.Core\\obj\\",
+        "outputPath": "D:\\project\\server\\Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

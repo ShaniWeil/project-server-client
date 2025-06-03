@@ -61,7 +61,6 @@ namespace Project.API.Controllers
             return Ok(x);
         }
 
-        // [Authorize]
         // POST api/<ProductCotroller>
         [HttpPost]
         public async Task Post([FromBody] ProductDTO productDTO)

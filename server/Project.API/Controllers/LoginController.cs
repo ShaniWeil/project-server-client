@@ -26,7 +26,7 @@ namespace Project.API.Controllers
         [HttpPost]
         public IActionResult Login([FromBody] User user)
         {
-            if (user.Name == "manager" && user.Password == "manager")
+            if (user.Name == "manager" && user.Password == "Manager@manager")
             {
                 var claims = new List<Claim>()
             {
